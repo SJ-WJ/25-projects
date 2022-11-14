@@ -1,1 +1,3 @@
-#25-projects
+# 25-projects
+
+A project based course titled [25+ Projects with AJAX, JavaScript,and JSON](https://www.packtpub.com/product/25-projects-with-ajax-javascript-and-json-video/9781803243504) created by Laurence Svekis. This course contains 25+ mini projects where students learn to connect endpoints, return JSON data, make fetch request, using JSON data to create web applications, and explore AJAX. This repository is only meant for learning purposes.
